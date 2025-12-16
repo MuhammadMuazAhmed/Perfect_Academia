@@ -4,6 +4,7 @@
 
 - [Muhammad Muaz Ahmed](https://github.com/muhammadmuazahmed)
 - [Muhammad Jasim Javed](https://github.com/jasim-javed)
+- [Ayman Zia](https://github.com/ayman1008)
 
 ## License
 
