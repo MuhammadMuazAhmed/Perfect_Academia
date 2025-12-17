@@ -3,6 +3,7 @@
 ## TEAM UNICODERS PROJECT IDEA
 
 ### Introduction
+A comprehensive and academically oriented web platform designed to provide carefully curated playlists, structured courses, and authoritative book recommendations across a wide range of disciplines, including web development, artificial intelligence, psychology, medical sciences, finance, and other fields of intellectual and professional pursuit.
 
 ---
 
