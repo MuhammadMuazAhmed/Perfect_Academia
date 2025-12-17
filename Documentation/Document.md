@@ -39,8 +39,8 @@ Community Contributions: Open-source model for adding and updating high-quality 
 Multi-Domain Coverage: Supports tech, finance, psychology, self-help, and more.
 
 ### Tech Stack
-- Frontend development: Next.js (for building interactive UI and API routes)
-- Backend development: Node.js (for server-side logic)
+- Frontend development: Next.js (framework), shadcn (UI library), Tailwind CSS (Styling)
+- Backend development: Node.js (runtime-server-side logic), NextAuth.js/AuthJS (authentication library)
 - Database: JSON file can be used instead of database but alternatively, we can use MongoDB
 - API Testing: Postman (to test API routes and backend endpoints)
 - Version Control & Collaboration: Git, GitHub
