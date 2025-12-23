@@ -63,9 +63,7 @@ This approach allows learners to focus on learning instead of searching, while f
 Contributions are welcome and encouraged. 
 
 You can contribute by:
-
-- Adding new learning resources  
-- Improving existing learning paths  
+  
 - Fixing bugs or improving the user interface  
 - Updating documentation  
 
