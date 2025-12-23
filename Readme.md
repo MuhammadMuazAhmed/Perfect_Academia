@@ -44,7 +44,7 @@ This approach allows learners to focus on learning instead of searching, while f
 
 - **Clean and Responsive User Interface:** Simple, modern design with easy navigation.
 
-- **Bookmarks and Progress Tracking:** Users can save resources and track their learning progress.
+- **Bookmarks:** Users can save learning resources for easy access later.
 
 - **Community Contributions:** Open-source model that allows contributors to add, update, and improve resources.
 
@@ -52,9 +52,7 @@ This approach allows learners to focus on learning instead of searching, while f
   
 ---
 
-## Future Roadmap
-- User authentication and personalized dashboards  
-- Learning progress analytics  
+## Future Roadmap  
 - Resource ratings and reviews  
 - Admin moderation for content quality  
 - Expansion into additional academic and professional domains  
@@ -65,9 +63,7 @@ This approach allows learners to focus on learning instead of searching, while f
 Contributions are welcome and encouraged. 
 
 You can contribute by:
-
-- Adding new learning resources  
-- Improving existing learning paths  
+  
 - Fixing bugs or improving the user interface  
 - Updating documentation  
 
